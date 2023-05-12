@@ -1,0 +1,29 @@
+sempre anotar os comandos:sudo apt update 
+-sudo apt update              #atualizar o source.list        
+-sudo apt upgrade             #atualizar o sistema
+-sudo apt full-upgrade         
+-sudo apt dist-upgrade     
+-sudo apt autoremove
+-sudo apt autoclean
+-sudo reboot
+-comint:é a mesma coisa que salvar
+
+
+
+history:historico de comandos 
+-sudo apt install-isntalar software
+-           sempre anotar os comandos:sudo apt update 
+-sudo apt update              #atualizar o source.list        
+-sudo apt upgrade             #atualizar o sistema
+-sudo apt full-upgrade         
+-sudo apt dist-upgrade     
+-sudo apt autoremove
+-sudo apt autoclean
+-sudo reboot
+-comint:é a mesma coisa que salvar
+
+
+
+history:historico de comandos 
+-sudo apt install-isntalar software
+-           

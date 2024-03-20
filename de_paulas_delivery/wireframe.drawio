@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2024-02-05T18:14:37.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Yx0Tg5tysGBFLzn9et2w" version="23.1.1" type="device">
+  <diagram name="Página-1" id="ogLnQ_PFQEWqiNSYA2GA">
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sw5uzt_QpXR6pUsUAxUh-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="70" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="sw5uzt_QpXR6pUsUAxUh-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="sw5uzt_QpXR6pUsUAxUh-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.3_line_bus;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="340" y="134" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sw5uzt_QpXR6pUsUAxUh-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="70" width="230" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="sw5uzt_QpXR6pUsUAxUh-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/picons-social/57/23-whatsapp-2-128.png" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sw5uzt_QpXR6pUsUAxUh-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-black/128/yumminky-social-media-36-128.png" vertex="1" parent="1">
+          <mxGeometry x="615" y="350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sw5uzt_QpXR6pUsUAxUh-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Facebook_glyph_svg-128.png" vertex="1" parent="1">
+          <mxGeometry x="680" y="350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sw5uzt_QpXR6pUsUAxUh-50" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="288" y="168" width="135" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sw5uzt_QpXR6pUsUAxUh-51" value="home" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="sw5uzt_QpXR6pUsUAxUh-50">
+          <mxGeometry width="70" height="30" relative="1" as="geometry">
+            <mxPoint x="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sw5uzt_QpXR6pUsUAxUh-52" value="contato" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="sw5uzt_QpXR6pUsUAxUh-50">
+          <mxGeometry width="70" height="30" relative="1" as="geometry">
+            <mxPoint x="40" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sw5uzt_QpXR6pUsUAxUh-53" value="projetos" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="sw5uzt_QpXR6pUsUAxUh-50">
+          <mxGeometry width="70" height="30" relative="1" as="geometry">
+            <mxPoint x="40" y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sw5uzt_QpXR6pUsUAxUh-55" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="sw5uzt_QpXR6pUsUAxUh-50">
+          <mxGeometry x="96.42857142857143" y="200" width="38.57142857142857" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sw5uzt_QpXR6pUsUAxUh-56" value="wireframe-cabeçalho e rodapé" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sw5uzt_QpXR6pUsUAxUh-57" value="home" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

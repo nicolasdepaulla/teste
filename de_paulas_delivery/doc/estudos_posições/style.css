@@ -1,0 +1,64 @@
+/**
+ estudo de posicionamento dos elementos (position)
+ @author nicolas de paula
+*/
+
+body {
+    font-family: sans-serif;
+}
+
+#static {
+    position: static;
+    padding: 50px;
+    background-color: red;
+}
+
+#relative1 {
+    position: relative;
+    padding: 50px;
+    background-color: white;
+    color: #000000;
+    /*top: -30px;
+    left: 30px;
+    */
+}
+
+#relative2 {
+    position: relative;
+    width: 500;
+    background-color: red;
+    padding: 30px;
+    top: -30px;
+    left: 30;
+}
+
+#relative3 {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+#absolute {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    background-color: yellow;
+    color: #000000;
+    padding: 20px;
+    right: 0px;
+    top: 100px;
+
+}
+
+#fixed {
+    position: fixed;
+    width: 200px;
+    padding: 30px;
+    background-color: #000000;
+    color: white;
+    right: 0px;
+    bottom: 0px;
+}
